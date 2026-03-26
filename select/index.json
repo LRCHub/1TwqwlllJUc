@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "真夜中のドア〜stay with me (2023 mix)",
+  "base_artist": "松原みき",
+  "createdAt": "2026-03-26T18:10:19.120831Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夜中のドア～stay with me (2023 mix KARAOKE)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/01_真夜中のドア~stay_with_me_(2023_mix_KARAOKE)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真夜中のドア / Stay With Me (2023 Mix Karaoke)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/02_真夜中のドア___Stay_With_Me_(2023_Mix_Karaoke)_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真夜中のドア～stay with me (2023 mix KARAOKE)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/03_真夜中のドア~stay_with_me_(2023_mix_KARAOKE)_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "真夜中のドア〜stay with me (2023 mix)",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/04_真夜中のドア〜stay_with_me_(2023_mix)_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真夜中のドア〜stay with me (2023 mix)",
+      "artist": "松原みき",
+      "has_synced": false,
+      "path": "select/pl_01_真夜中のドア〜stay_with_me_(2023_mix)_松原みき.txt"
+    }
+  ]
+}
